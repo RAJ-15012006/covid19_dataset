@@ -1,6 +1,6 @@
-# covid19_Project :- https://covid19dataset-qpjozfwf2memgbu2qiut9t.streamlit.app/
+# COVID-19_Project(view) :- https://covid19dataset-qpjozfwf2memgbu2qiut9t.streamlit.app/
 
-# COVID-19 Prediction Project
+## COVID-19 Prediction Project
 
 This project applies machine learning models to **predict COVID-19 case growth** using data from Worldometer. The workflow includes data preprocessing, feature engineering, scaling, and applying regression models (Linear Regression, Random Forest, XGBoost, ARIMA, and LSTM).
 
