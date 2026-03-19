@@ -1,0 +1,4 @@
+__pycache__/
+*.pyc
+*.pkl
+owid-covid-data.csv
